@@ -1,0 +1,17 @@
+{
+  "title": "ResponsiveColumns Material Demo",
+  "name": "ResponsiveColumns Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.8/docs/src/pages/components/masonry/ResponsiveColumns.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/lab": "latest",
+    "@mui/material": "latest",
+    "lorem-ipsum": "2.0.4",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

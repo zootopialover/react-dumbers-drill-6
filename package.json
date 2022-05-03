@@ -1,0 +1,24 @@
+{
+  "title": "ResponsiveColumns Material Demo",
+  "name": "responsivecolumns-material-demo-forked",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.8/docs/src/pages/components/masonry/ResponsiveColumns.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/lab": "latest",
+    "@mui/material": "latest",
+    "lorem-ipsum": "2.0.4",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
